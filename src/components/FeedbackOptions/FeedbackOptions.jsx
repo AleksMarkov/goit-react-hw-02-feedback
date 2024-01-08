@@ -1,4 +1,4 @@
-import styles from './vote.module.css';
+import styles from './FeedbackOptions.module.css';
 
 const FeedbackOptions = ({ options, onleaveFeedback }) => {
   const buttonElements = options.map(name => (

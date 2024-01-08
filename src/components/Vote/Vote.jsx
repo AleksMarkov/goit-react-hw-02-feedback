@@ -1,7 +1,7 @@
 import { Component } from 'react';
 import Section from 'components/Section/Section';
-import FeedbackOptions from './FeedbackOptions';
-import Statistics from './Statistics';
+import FeedbackOptions from '../FeedbackOptions/FeedbackOptions';
+import Statistics from '../Statistics/Statistics';
 
 import styles from './vote.module.css';
 
